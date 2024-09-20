@@ -1,0 +1,21 @@
+.card-heading{
+    color:rgb(66, 35, 35);
+}
+
+
+.card{
+    background-color: rgb(171, 185, 152);
+     margin: 80px;
+     width: 50%;
+    
+}
+
+.card-image img {
+ width: 35%;
+ 
+
+}
+ .para{
+ margin: 20%;
+ }
+

@@ -1,0 +1,113 @@
+.sidebar-header {
+
+
+     margin-left: 45px;
+     margin-bottom: 30px;
+
+}
+
+
+.sidebar-brand {
+     margin-top: 0;
+     margin-left: 30px;
+     margin-right: 40px;
+     text-align: center;
+}
+
+.navbar-brand {
+     color: white;
+
+}
+
+.sidbar-container {
+
+     text-align: "center";
+      /* background-color: blue; */
+       margin-top: 85px;
+    
+}
+
+
+.left-container {
+     background-color: #f4fdf4;
+     width: 100%;
+     align-items: center;
+     border-radius: 7%;
+     height: 95%;
+
+}
+
+.Progress-data {
+
+
+     border-radius: 15%;
+     margin-top: 15px;
+     
+
+}
+
+
+
+.Progress-data #file {
+
+     background: rgb(45, 171, 77);
+     margin: 10px;
+     border-radius: 5%;
+     width: 70%;
+     height: 5px;
+ 
+}
+
+.left-container .Progress-data .heading {
+
+     text-align: center;
+     padding: 30px;
+     border-radius: 15%;
+}
+
+.left-container .Progress-data .field-container {
+
+     margin-top: 2px;
+     margin-left: 40px;
+
+
+}
+
+.left-container .sideImage-conatiner{
+     background-color: #f2f2f2;
+    margin: 10%;
+     width:75%;
+    padding: 20px;
+     border-radius: 15px;
+      
+   }
+   .left-container  .sideImage-conatiner2{
+     width:65%;
+     text-align: center;
+     font-weight: bold;
+      margin-left: 45px;
+      margin-top: 10px;
+   
+   }
+   .left-container .sideImage-conatiner3{
+     width:85%;
+     text-align: center;
+     margin-left: 25px;
+  
+   
+   }
+   .left-container .sideImage-conatiner4{
+     width:50%;
+     text-align: center;
+     background-color: black;
+     margin-left: 65px;
+     margin-top: 20px;
+     color: white;
+     padding: 5px;
+   }
+   
+   .left-container  .sideImage-icon{
+   display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   }

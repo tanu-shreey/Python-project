@@ -1,0 +1,54 @@
+{
+    "fruits": [
+        {
+            "name": "apple",
+            "color": "red",
+            "weight": 150
+        },
+        {
+            "name": "banana",
+            "color": "yellow",
+            "weight": 120
+        },
+        {
+            "name": "cherry",
+            "color": "red",
+            "weight": 10
+        },
+        {
+            "name": "date",
+            "color": "brown",
+            "weight": 7
+        },
+        {
+            "name": "elderberry",
+            "color": "black",
+            "weight": 5
+        },
+        {
+            "name": "fig",
+            "color": "purple",
+            "weight": 50
+        },
+        {
+            "name": "grape",
+            "color": "green",
+            "weight": 5
+        },
+        {
+            "name": "honeydew",
+            "color": "green",
+            "weight": 1000
+        },
+        {
+            "name": "kiwi",
+            "color": "brown",
+            "weight": 75
+        },
+        {
+            "name": "lemon",
+            "color": "yellow",
+            "weight": 80
+        }
+    ]
+}

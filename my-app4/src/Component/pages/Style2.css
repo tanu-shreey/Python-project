@@ -1,0 +1,112 @@
+.Home {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  border-radius: 7%;
+  margin: 50px;
+  margin-bottom: 0;
+}
+
+.Data-Container {
+  background-color: white;
+
+  width: 75%;
+  margin: 50px;
+  margin-left: 15px;
+  border-radius: 7%;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.chart {
+  background-color: white;
+  margin: 40px;
+  width: 55%;
+
+}
+
+/* ------------------------------------card---------------------------------------------------- */
+.div-one {
+
+  margin: 25px;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Data-Container .time {
+  font-weight: bold;
+  margin: 20px;
+}
+
+.div-one .icon-image {
+
+  margin-right: 6px;
+
+} 
+
+.div-one .fetchData {
+  display: flex;
+  flex-direction: row;
+/* background-color: rgb(71, 49, 19); */
+}
+ 
+
+
+
+/*----------------------------------------- Login Form---------------------------------------------- */
+
+
+
+
+.Login-inner-container {
+  background-color: #e1e7f1;
+  width: 350px;
+   margin-left:30%;
+   margin-top: 15%;
+    border-style: solid;
+     border-color: #7a7777;
+      margin-bottom: 20%;
+    
+}
+.Login-Heading{
+
+  text-align: center;
+}
+.Login-Form{
+ 
+  margin: 45px;
+}
+.Login-Form input[type='text']{
+padding: 5px;
+ margin: 10px;
+  width: 85%;
+
+}
+
+ .Login-Form button{
+
+background-color:rgb(63, 63, 110);
+color: #fff;
+ width: 85%;
+ padding: 5px;
+margin: 15px;
+  border: none ;
+}
+
+
+.Data-Container2 {
+  background-color: white;
+
+  width: 100%;
+  margin: 20px;
+  margin-left: 15px;
+  border-radius: 5%;
+  display: flex;
+  flex-direction: row;
+
+}
+
+
